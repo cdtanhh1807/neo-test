@@ -1,4 +1,4 @@
-# "Hello World" API with CI/CD on Google Cloud
+# Simple JSON API with CI/CD on Google Cloud
 
 This project deploys a simple JSON API using Python (FastAPI), packaged in Docker, and automatically deployed to Google Cloud Run through a CI/CD pipeline with GitHub Actions.
 
